@@ -1,0 +1,88 @@
+{
+    "items" :[
+        {
+            "id" : 1,
+            "title": "White Beret Hat",
+            "class": "hat",
+            "price": 80,
+            "image": "./img/baret.png"
+        },
+        {
+            "id" : 2,
+            "title": "Black Hat",
+            "class": "hat",
+            "price": 50,
+            "image": "./img/cap.png"
+        },
+        {
+            "id" : 3,
+            "title": "White Jeans",
+            "class": "pants",
+            "price": 150,
+            "image": "./img/whitej.png"
+        },
+        {
+            "id" : 4,
+            "title": "Silver Watch",
+            "class": "watch",
+            "price": 250,
+            "image": "./img/blackw.png"
+        },
+        {
+            "id" : 5,
+            "title": "Blue Jeans",
+            "class": "pants",
+            "price": 250,
+            "image": "./img/bluej.png"
+        },
+        {
+            "id" : 6,
+            "title": "Blue Shirt",
+            "class": "shirt",
+            "price": 150,
+            "image": "./img/blues.png"
+        },
+        {
+            "id" : 7,
+            "title": "Brown Watch",
+            "class": "watch",
+            "price": 300,
+            "image": "./img/brownw.png"
+        },
+        {
+            "id" :8 ,
+            "title": "Dark-Blue Shirt",
+            "class": "shirt",
+            "price": 150,
+            "image": "./img/dark-blues.png"
+        },
+        {
+            "id" : 9,
+            "title": "Dark-Brown Watch",
+            "class": "watch",
+            "price": 300,
+            "image": "./img/dark-brownw.png"
+        },
+        {
+            "id" :10 ,
+            "title": "Green Shirt",
+            "class": "shirt",
+            "price": 150,
+            "image": "./img/greens.png"
+        },
+        {
+            "id" : 11,
+            "title": "White Hat",
+            "class": "hat",
+            "price": 70,
+            "image": "./img/whiteh.png"
+        },
+        {
+            "id" : 12,
+            "title": "Black Jeans",
+            "class": "pants",
+            "price": 100,
+            "image": "./img/blackj.png"
+        }
+    ]
+}

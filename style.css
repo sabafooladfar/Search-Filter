@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f2ecf3;
+    position: relative;
+}
+/* header */
+header {
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    height: fit-content;
+    width: 100%;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.search-input {
+    outline: none;
+    border: #c1a9c5;
+    border-radius: 10px;
+    width: 350px;
+    background-color: #edeaee;
+}
+.search-input:focus{
+    border: gray solid 2px;
+}
+/* products */
+main section div{
+    outline: none;
+    border: none!important;
+}
+main section div img{
+    height: 230px;
+}
